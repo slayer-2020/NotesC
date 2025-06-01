@@ -1,5 +1,7 @@
 #Step1
 pip install pyperclip python-docs pillow pyinstaller
+
+
 #Step2
 pyinstaller --onefile --windowed NotesC.py
 
