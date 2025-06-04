@@ -1,3 +1,7 @@
+Executable:
+Extract the three Rar files and you are read to do NotesC!
+
+Compile Method:
 #Step1
 pip install pyperclip python-docs pillow pyinstaller
 
